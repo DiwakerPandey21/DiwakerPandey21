@@ -332,7 +332,9 @@ AI-powered student dropout prediction system — submitted at Smart India Hackat
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DiwakerPandey21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Stars](https://img.shields.io/github/stars/DiwakerPandey21?style=for-the-badge&color=FFD700&logo=github&label=⭐+STARS+EARNED)
+![Commits](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00FFFF&label=💻+TOTAL+COMMITS&query=$.total_count&url=https://api.github.com/search/commits?q=author:DiwakerPandey21)
+![Repos](https://img.shields.io/badge/◈_PUBLIC_REPOS-19-B388FF?style=for-the-badge&logo=github)
 
 </div>
 
