@@ -375,7 +375,7 @@ AI-powered student dropout prediction system — submitted at Smart India Hackat
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiwakerPandey21/DiwakerPandey21/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> ⚠️ *To activate the snake: add the [Platane/snk GitHub Action](https://github.com/Platane/snk) to your profile repo.*
+
 
 </div>
 
