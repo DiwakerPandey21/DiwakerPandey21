@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=750&height=45&lines=◣+INITIALIZING+DEVELOPER+SEQUENCE...+◢;▸+B.Tech+CSE+%40+LPU+%7C+Phagwara%2C+Punjab+◂;◈+MERN+Stack+%7C+Python+%7C+AI+Solutions+◈;⚡+Hackathon+Warrior+%7C+SIH+2025+Finalist+⚡;◣+BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME+◢" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=750&height=45&lines=◣+INITIALIZING+DEVELOPER+SEQUENCE...+◢;▸+B.Tech+CSE+%40+LPU+%7C+Phagwara%2C+Punjab+◂;◈+MERN+Stack+%7C+Python+%7C+AI+Solutions+◈;⚡+Hackathon+Warrior+%7C+SIH+2025+Finalist+⚡;◣+BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME+◢" alt="Typing SVG" />
 </a>
 
 </div>
@@ -332,7 +332,7 @@ AI-powered student dropout prediction system — submitted at Smart India Hackat
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DiwakerPandey21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiwakerPandey21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
