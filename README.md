@@ -420,7 +420,7 @@ const DiwakerPandey: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DiwakerPandey21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiwakerPandey21&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&column=4&title=Stars,Followers,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -530,8 +530,8 @@ const DiwakerPandey: Developer = {
 <br/>
 
 <!-- TIRANGA FOOTER -->
-<img width="100%" height="18" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=18" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A1F,40:0D1B4B,100:0A0A1F&height=120&section=footer&animation=twinkling&desc=☸️+Jai+Hind+·+Keep+Building+·+Keep+Growing+🇮🇳&descSize=15&descColor=FFFFFF&descAlignY=55" />
-<img width="100%" height="18" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=30&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A1F,40:0D1B4B,100:0A0A1F&height=130&section=footer&animation=twinkling&desc=☸️+Jai+Hind+·+Keep+Building+·+Keep+Growing+🇮🇳&descSize=16&descColor=FF9933&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=30&section=footer" />
 
 </div>
