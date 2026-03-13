@@ -420,13 +420,27 @@ const DiwakerPandey: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DiwakerPandey21&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&column=4&title=Stars,Followers,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  🟠  ACHIEVEMENTS UNLOCKED                                   🟢    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   🏆  SIH 2025 Hackathon Participant    ·  National Level           ║
+║   🥇  Full Stack Developer              ·  MERN + AI + Cloud        ║
+║   🎖️  Open Source Contributor           ·  20 Public Repos          ║
+║   🏅  Consistent Coder                  ·  140+ Contributions        ║
+║   ⭐  Community Builder                 ·  GreenThumb Platform       ║
+║   🚀  AI Product Builder               ·  SuppSync PWA              ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-<img src="https://img.shields.io/github/stars/DiwakerPandey21?style=for-the-badge&color=FF9933&logo=github&label=STARS+EARNED" />&nbsp;
-<img src="https://img.shields.io/badge/PUBLIC_REPOS-20-138808?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-140+-0D1B4B?style=for-the-badge&logo=git&logoColor=FF9933" />
+<img src="https://img.shields.io/github/stars/DiwakerPandey21?style=for-the-badge&color=FF9933&logo=github&label=⭐+STARS+EARNED" />&nbsp;
+<img src="https://img.shields.io/badge/🏛️_PUBLIC_REPOS-20-138808?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/🔥_CONTRIBUTIONS-140+-FF9933?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/🇮🇳_SIH_2025-FINALIST-0D1B4B?style=for-the-badge&logoColor=FF9933" />
 
 </div>
 
@@ -530,8 +544,8 @@ const DiwakerPandey: Developer = {
 <br/>
 
 <!-- TIRANGA FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=30&section=footer" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A1F,40:0D1B4B,100:0A0A1F&height=130&section=footer&animation=twinkling&desc=☸️+Jai+Hind+·+Keep+Building+·+Keep+Growing+🇮🇳&descSize=16&descColor=FF9933&descAlignY=60" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=30&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=30" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A1F,50:0D1B4B,100:0A0A1F&height=130&section=footer&animation=twinkling&desc=☸️+Jai+Hind+·+Keep+Building+·+Keep+Growing+🇮🇳&descSize=16&descColor=FF9933&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=30" />
 
 </div>
