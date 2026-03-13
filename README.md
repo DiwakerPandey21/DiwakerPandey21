@@ -390,16 +390,16 @@ const DiwakerPandey: Developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DiwakerPandey21&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF9933&icon_color=138808&text_color=ffffff&bg_color=%230D1B4B&ring_color=FF9933&count_private=true&include_all_commits=true" />&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakerPandey21&layout=compact&theme=tokyonight&hide_border=true&title_color=FF9933&text_color=ffffff&bg_color=%230D1B4B&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DiwakerPandey21&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF9933&icon_color=138808&text_color=ffffff&ring_color=FF9933&count_private=true&include_all_commits=true" />&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakerPandey21&layout=compact&theme=tokyonight&hide_border=true&title_color=FF9933&text_color=ffffff&langs_count=8" />
 
 <br/><br/>
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakerPandey21&theme=tokyonight&hide_border=true&ring=FF9933&fire=138808&currStreakLabel=FF9933&sideLabels=ffffff&dates=aaaaaa&background=%230D1B4B&stroke=FF9933" />
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakerPandey21&theme=tokyonight&hide_border=true&ring=FF9933&fire=138808&currStreakLabel=FF9933&sideLabels=ffffff&dates=aaaaaa&stroke=FF9933" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DiwakerPandey21&theme=tokyo-night&hide_border=true&bg_color=0D1B4B&color=FF9933&line=138808&point=ffffff&area=true&area_color=FF9933" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DiwakerPandey21&theme=tokyo-night&hide_border=true&color=FF9933&line=138808&point=ffffff&area=true&area_color=FF9933" />
 
 </div>
 
