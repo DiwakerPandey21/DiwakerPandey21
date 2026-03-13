@@ -545,7 +545,7 @@ const DiwakerPandey: Developer = {
 
 <!-- TIRANGA FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=30" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A1F,50:0D1B4B,100:0A0A1F&height=130&section=footer&animation=twinkling&desc=☸️+Jai+Hind+·+Keep+Building+·+Keep+Growing+🇮🇳&descSize=16&descColor=FF9933&descAlignY=60" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=30" />
 
 </div>
