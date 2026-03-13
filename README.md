@@ -1,49 +1,49 @@
 <div align="center">
 
 <!-- ████████████████████████████████████████████████████████ -->
-<!--       DIWAKER PANDEY — TIRANGA EDITION 🇮🇳              -->
-<!--       SAFFRON · WHITE · GREEN · ASHOKA NAVY             -->
+<!--       DIWAKER PANDEY — TIRANGA EDITION 🇮🇳 v4.0         -->
+<!--       ALL URLS FIXED · SUPPSYNC ADDED                   -->
 <!-- ████████████████████████████████████████████████████████ -->
 
 <!-- SAFFRON TOP STRIPE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=12&section=header" />
+<img width="100%" height="12" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=12" />
 
-<!-- MAIN CINEMATIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A1F,25:0D1B4B,55:0F2D6B,80:0D1B4B,100:0A0A1F&height=290&section=header&text=DIWAKER%20PANDEY&fontAlign=50&fontAlignY=42&fontSize=72&fontColor=FF9933&desc=〔%20FULL%20STACK%20DEVELOPER%20〕〔%20MERN%20〕〔%20AI%20〕〔%20CLOUD%20〕&descSize=15&descColor=FFFFFF&descAlignY=62&animation=twinkling&stroke=FF9933&strokeWidth=2" />
+<!-- MAIN HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A1F,25:0D1B4B,55:0F2D6B,80:0D1B4B,100:0A0A1F&height=290&section=header&text=DIWAKER%20PANDEY&fontAlign=50&fontAlignY=42&fontSize=72&fontColor=FF9933&desc=%E3%80%94%20FULL%20STACK%20DEVELOPER%20%E3%80%95%E3%80%94%20MERN%20%E3%80%95%E3%80%94%20AI%20%E3%80%95%E3%80%94%20CLOUD%20%E3%80%95&descSize=14&descColor=FFFFFF&descAlignY=62&animation=twinkling&stroke=FF9933&strokeWidth=2" />
 
 <!-- GREEN BOTTOM STRIPE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=12&section=header" />
+<img width="100%" height="12" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=12" />
 
 <br/>
 
-<!-- TYPING TERMINAL -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=FF9933&center=true&vCenter=true&width=780&height=48&lines=🇮🇳+PROUD+INDIAN+DEVELOPER+%7C+DIWAKER_21;⚡+3rd+Year+CSE+%40+LPU+%7C+Phagwara%2C+Punjab;🔥+MERN+Stack+%7C+Python+%7C+AI+%7C+Cloud;🏆+SIH+2025+%7C+National+Level+Hackathon+Warrior;💡+IDEAS+→+CODE+→+IMPACT+→+BHARAT+🚀" alt="Typing SVG" />
-</a>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=FF9933&center=true&vCenter=true&width=780&height=48&lines=🇮🇳+PROUD+INDIAN+DEVELOPER+%7C+DIWAKER_21;⚡+3rd+Year+CSE+%40+LPU+%7C+Phagwara%2C+Punjab;🔥+MERN+Stack+%7C+Python+%7C+AI+%7C+Cloud;🏆+SIH+2025+Hackathon+%7C+National+Level+Warrior;💡+IDEAS+→+CODE+→+IMPACT+→+BHARAT+🚀" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- SOCIAL BADGES — SAFFRON + GREEN + NAVY -->
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0D1B4B?style=for-the-badge&logo=linkedin&logoColor=FF9933&labelColor=0D1B4B)](https://linkedin.com/in/diwaker-pandey-32242a211)&nbsp;
-[![GitHub](https://img.shields.io/badge/◈_GitHub-0A0A1F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A0A1F&color=138808)](https://github.com/DiwakerPandey21)&nbsp;
-[![Gmail](https://img.shields.io/badge/◈_Gmail-FF9933?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=CC7000)](mailto:diwakerp050@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-138808?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=0D6606)](https://github.com/DiwakerPandey21)
+<!-- SOCIAL BADGES -->
+<a href="https://linkedin.com/in/diwaker-pandey-32242a211"><img src="https://img.shields.io/badge/LinkedIn-0D1B4B?style=for-the-badge&logo=linkedin&logoColor=FF9933" /></a>&nbsp;
+<a href="https://github.com/DiwakerPandey21"><img src="https://img.shields.io/badge/GitHub-138808?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="mailto:diwakerp050@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF9933?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DiwakerPandey21&color=FF9933&style=for-the-badge&label=🇮🇳+PROFILE+VIEWS)&nbsp;
-![Followers](https://img.shields.io/github/followers/DiwakerPandey21?color=138808&style=for-the-badge&logo=github&label=⚡+FOLLOWERS)&nbsp;
-![Stars](https://img.shields.io/github/stars/DiwakerPandey21?color=FF9933&style=for-the-badge&logo=github&label=⭐+TOTAL+STARS)
+<!-- STAT PILLS -->
+<img src="https://komarev.com/ghpvc/?username=DiwakerPandey21&color=FF9933&style=for-the-badge&label=PROFILE+VIEWS" />&nbsp;
+<img src="https://img.shields.io/github/followers/DiwakerPandey21?color=138808&style=for-the-badge&logo=github&label=FOLLOWERS" />&nbsp;
+<img src="https://img.shields.io/github/stars/DiwakerPandey21?color=FF9933&style=for-the-badge&logo=github&label=TOTAL+STARS" />
 
 </div>
 
-<!-- TIRANGA STRIPE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
+<br/>
+
+<!-- TIRANGA STRIPE -->
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
 
 <!-- ████████████████████████████████████████████████████████ -->
-<!--                HOLOGRAPHIC PLAYER CARD                   -->
+<!--                 PLAYER CARD                              -->
 <!-- ████████████████████████████████████████████████████████ -->
 
 <br/>
@@ -51,7 +51,7 @@
 
 ```
  ╔══════════════════════════════════════════════════════════════════════╗
- ║  🇮🇳 ══════════════  PLAYER_01.EXE  ══════════════ 🇮🇳  ║
+ ║  🇮🇳 ═══════════════  PLAYER_01.EXE  ════════════════ 🇮🇳  ║
  ╠══════════════════════════════════════════════════════════════════════╣
  ║                                                                      ║
  ║   ██████╗ ██╗██╗    ██╗ █████╗ ██╗  ██╗███████╗██████╗             ║
@@ -62,29 +62,29 @@
  ║   ╚═════╝ ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  _21     ║
  ║                                                                      ║
  ╠══════════════════════════════════════════════════════════════════════╣
- ║  🟠 CLASS    ▸  Full Stack Developer   [ ████████████░░  EVOLVING ] ║
- ║  ☸️  GUILD    ▸  Lovely Professional University · CSE · 3rd Year    ║
- ║  🟢 REGION   ▸  Phagwara, Punjab, India  🇮🇳                        ║
- ║  ⚡ WEAPONS  ▸  MERN ⚡ · Python 🐍 · AI/ML 🤖 · Cloud ☁️          ║
- ║  🔵 STATUS   ▸  ◉ ONLINE  ·  Building Impactful Products            ║
+ ║  🟠 CLASS    Full Stack Developer    [ ████████████░░  EVOLVING ]   ║
+ ║  ☸️  GUILD    Lovely Professional University · CSE · 3rd Year       ║
+ ║  🟢 REGION   Phagwara, Punjab, India  🇮🇳                           ║
+ ║  ⚡ WEAPONS  MERN · Python 🐍 · AI/ML 🤖 · Cloud ☁️               ║
+ ║  🔵 STATUS   ◉ ONLINE · Building Impactful Products                 ║
  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 <br/>
 
-<!-- TIRANGA STRIPE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
+<!-- TIRANGA STRIPE -->
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
 
 <!-- ████████████████████████████████████████████████████████ -->
-<!--                     ABOUT / WHOAMI                       -->
+<!--                     WHOAMI                               -->
 <!-- ████████████████████████████████████████████████████████ -->
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> `whoami`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="38"> `> whoami`
 
 ```typescript
 const DiwakerPandey: Developer = {
@@ -93,50 +93,49 @@ const DiwakerPandey: Developer = {
   currentLevel  : "3rd Year B.Tech Computer Science",
 
   weapons       : ["JavaScript", "TypeScript", "Python", "PHP", "HTML5", "CSS3"],
-  frameworks    : ["React.js", "Node.js", "Express.js", "Tailwind CSS"],
-  databases     : ["MongoDB", "MySQL"],
-  devTools      : ["Git", "GitHub", "VS Code", "Jupyter", "Postman"],
+  frameworks    : ["React.js", "Next.js", "Node.js", "Express.js", "Tailwind CSS"],
+  databases     : ["MongoDB", "MySQL", "Supabase (PostgreSQL)"],
+  devTools      : ["Git", "GitHub", "VS Code", "Jupyter", "Postman", "Framer Motion"],
 
   currentlyBuilding : [
+    "💊 SuppSync — AI Supplement Tracker (Next.js + Supabase + Gemini AI)",
     "🔥 Full-Stack MERN Applications",
     "🤖 AI-Driven Automation Tools",
-    "☁️  Cloud-Integrated Web Services",
   ],
 
-  superPowers   : ["Hackathon Problem Solving", "Rapid Prototyping", "Team Collaboration"],
   lifeOS        : "Ideas → Code → Impact → Bharat 🇮🇳🚀",
-  funFact       : '"I turn chai into commits."  🍵→⚡'
+  funFact       : '"I turn chai into commits." 🍵→⚡'
 };
 ```
 
 <br/>
 
-<!-- TIRANGA STRIPE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
+<!-- TIRANGA STRIPE -->
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
 
 <!-- ████████████████████████████████████████████████████████ -->
-<!--                     TECH ARSENAL                         -->
+<!--                   TECH ARSENAL                           -->
 <!-- ████████████████████████████████████████████████████████ -->
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> `TECH_ARSENAL.exe`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> `> TECH_ARSENAL.exe`
 
 <div align="center">
 
-### 🟠 WEAPONS · Languages
+### 🟠 LANGUAGES
 <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css&theme=dark&perline=6" />
 
-### ⚪ FRAMEWORKS · Power-Ups
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap&theme=dark&perline=5" />
+### ⚪ FRAMEWORKS & LIBRARIES
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark&perline=6" />
 
-### 🟢 DATABASES · Vaults
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark&perline=5" />
+### 🟢 DATABASES & BACKEND
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase&theme=dark&perline=6" />
 
-### 🔵 TOOLS · Gear
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman,figma&theme=dark&perline=6" />
+### 🔵 TOOLS & ENVIRONMENT
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&theme=dark&perline=6" />
 
 <br/>
 
@@ -144,12 +143,12 @@ const DiwakerPandey: Developer = {
 ╔══════════════════════════════════════════════════════════════╗
 ║         ☸️   ASHOKA  CHAKRA  SKILL  LEVELS   ☸️              ║
 ╠══════════════════════════════════════════════════════════════╣
-║  JavaScript  〔████████████████████〕 90% 🟠 SAFFRON-RANK   ║
-║  React.js    〔██████████████████░░〕 80% ⚪ SILVER-RANK    ║
-║  Node.js     〔█████████████████░░░〕 75% 🟢 EMERALD-RANK   ║
-║  Python      〔███████████████░░░░░〕 65% 🔵 CHAKRA-RANK    ║
-║  MongoDB     〔████████████░░░░░░░░〕 60% 🟠 BRONZE-RANK    ║
-║  TypeScript  〔██████████░░░░░░░░░░〕 50% 🟡 RISING-RANK    ║
+║  JavaScript  〔████████████████████〕 90%  🟠 SAFFRON-RANK  ║
+║  React.js    〔██████████████████░░〕 82%  ⚪ SILVER-RANK   ║
+║  Node.js     〔█████████████████░░░〕 75%  🟢 EMERALD-RANK  ║
+║  Next.js     〔████████████████░░░░〕 70%  🔵 CHAKRA-RANK   ║
+║  Python      〔███████████████░░░░░〕 65%  🟠 BRONZE-RANK   ║
+║  TypeScript  〔████████████░░░░░░░░〕 55%  🟡 RISING-RANK   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -157,10 +156,10 @@ const DiwakerPandey: Developer = {
 
 <br/>
 
-<!-- TIRANGA STRIPE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
+<!-- TIRANGA STRIPE -->
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!--                  LEGENDARY QUESTS                        -->
@@ -168,11 +167,48 @@ const DiwakerPandey: Developer = {
 
 <br/>
 
-## 🏆 `LEGENDARY_QUESTS.log`
+## 🏆 `> LEGENDARY_QUESTS.log`
 
 <div align="center">
 <table>
+
+<!-- ══ ROW 1 ══════════════════════════════════════════════ -->
 <tr>
+<td width="50%" valign="top">
+<div align="center">
+
+### 💊 SuppSync — AI Supplement Tracker
+`🟠 FEATURED PROJECT · LATEST BUILD 🟠`
+
+![Badge](https://img.shields.io/badge/Next.js_15-FULLSTACK_PWA-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Badge](https://img.shields.io/badge/STATUS-LIVE-138808?style=flat-square)
+![Badge](https://img.shields.io/badge/RARITY-🟠🟠🟠🟠🟠_LEGENDARY-FF9933?style=flat-square)
+
+```
+┌──────────────────────────────────┐
+│  🎯 MISSION                      │
+│  Premium AI-powered PWA to track │
+│  supplements, optimize biohacks  │
+│  & monitor health goals.         │
+│  60+ features across V1–V8! 🚀   │
+│                                  │
+│  🛠  Next.js 15 · React · Gemini │
+│       Supabase · Tailwind v4     │
+│  ☸️   TypeScript 98.9%           │
+│  🏅  XP ▸ ████████████  +3000    │
+└──────────────────────────────────┘
+```
+
+**Key Features:**
+- 🤖 Gemini AI Chat Coach
+- 🎮 XP & Leveling Gamification
+- 📊 GitHub-style Heatmap
+- 🔔 Real-time PWA Notifications
+
+[![Repo](https://img.shields.io/badge/☸️_OPEN_REPO-0D1B4B?style=for-the-badge&logo=github&logoColor=FF9933)](https://github.com/DiwakerPandey21/Suppsync)
+
+</div>
+</td>
 
 <td width="50%" valign="top">
 <div align="center">
@@ -180,46 +216,67 @@ const DiwakerPandey: Developer = {
 ### 🌱 Smart Fertilizer Planner
 `🟠 SIH 2025 · NATIONAL HACKATHON 🟠`
 
+![Badge](https://img.shields.io/badge/SIH_2025-NATIONAL-FF9933?style=flat-square&logo=rocket&logoColor=white)
+![Badge](https://img.shields.io/badge/STATUS-COMPLETED-138808?style=flat-square)
+![Badge](https://img.shields.io/badge/RARITY-🟠🟠🟠🟠🟠_LEGENDARY-FF9933?style=flat-square)
+
 ```
 ┌──────────────────────────────────┐
-│  RARITY   🟠🟠🟠🟠🟠  LEGENDARY  │
-│  STATUS   ► 🟢 COMPLETED         │
-│  STACK    ► React · Node · AI    │
-│  XP DROP  ► ████████  +2500 XP   │
+│  🎯 MISSION                      │
+│  AI-powered crop advisory for    │
+│  rural farmers — fusing soil     │
+│  intelligence, weather APIs &    │
+│  ML models for optimal results.  │
+│                                  │
+│  🛠  React · Node.js · Python    │
+│       AI/ML · Weather APIs       │
+│  🇮🇳  NATIONAL LEVEL IMPACT     │
+│  🏅  XP ▸ ████████████  +2500    │
 └──────────────────────────────────┘
 ```
 
-AI-powered crop advisory for rural farmers — fusing soil intelligence, weather APIs & ML for optimal results. **National Level Impact 🇮🇳**
+**Key Features:**
+- 🌾 AI Fertilizer Recommendations
+- 🌦️ Live Weather API Integration
+- 📊 Soil Data Analysis Dashboard
+- 🤝 Built for Rural Farmers
 
 [![Repo](https://img.shields.io/badge/☸️_OPEN_REPO-0D1B4B?style=for-the-badge&logo=github&logoColor=FF9933)](https://github.com/DiwakerPandey21)
 
 </div>
 </td>
+</tr>
 
+<!-- ══ ROW 2 ══════════════════════════════════════════════ -->
+<tr>
 <td width="50%" valign="top">
 <div align="center">
 
 ### 🎓 Student Dropout Predictor
 `🔵 ML + MERN · FULLSTACK PROJECT 🔵`
 
+![Badge](https://img.shields.io/badge/ML_+_MERN-FULLSTACK-0D1B4B?style=flat-square&logo=react&logoColor=FF9933)
+![Badge](https://img.shields.io/badge/STATUS-SHIPPED-138808?style=flat-square)
+![Badge](https://img.shields.io/badge/RARITY-🟠🟠🟠🟠☆_EPIC-FF9933?style=flat-square)
+
 ```
 ┌──────────────────────────────────┐
-│  RARITY   🟠🟠🟠🟠☆   EPIC       │
-│  STATUS   ► 🟢 SHIPPED           │
-│  STACK    ► MERN · Python · ML   │
-│  XP DROP  ► ███████   +2000 XP   │
+│  🎯 MISSION                      │
+│  ML-based risk prediction with   │
+│  counseling workflow — identify  │
+│  at-risk students early and      │
+│  trigger intervention on time.   │
+│                                  │
+│  🛠  MERN Stack · Python · ML    │
+│  📊  Real-time Risk Dashboard    │
+│  🏅  XP ▸ ███████████   +2000    │
 └──────────────────────────────────┘
 ```
-
-ML-based risk prediction dashboard with counseling workflow — built to identify at-risk students early and drive intervention.
 
 [![Repo](https://img.shields.io/badge/☸️_OPEN_REPO-0D1B4B?style=for-the-badge&logo=github&logoColor=FF9933)](https://github.com/DiwakerPandey21)
 
 </div>
 </td>
-
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 <div align="center">
@@ -227,46 +284,60 @@ ML-based risk prediction dashboard with counseling workflow — built to identif
 ### 📋 EventEzy — Smart Attendance
 `🟢 FULLSTACK · LPU CAMPUS TOOL 🟢`
 
+![Badge](https://img.shields.io/badge/FULLSTACK-CAMPUS_TOOL-138808?style=flat-square&logo=javascript&logoColor=white)
+![Badge](https://img.shields.io/badge/STATUS-LIVE-138808?style=flat-square)
+![Badge](https://img.shields.io/badge/RARITY-🟠🟠🟠☆☆_RARE-FF9933?style=flat-square)
+
 ```
 ┌──────────────────────────────────┐
-│  RARITY   🟠🟠🟠☆☆   RARE        │
-│  STATUS   ► 🟢 LIVE & DEPLOYED   │
-│  STACK    ► JS · Node · Excel    │
-│  XP DROP  ► █████     +1500 XP   │
+│  🎯 MISSION                      │
+│  Smart Attendance System 📎 that │
+│  replaces Google Forms & Excel   │
+│  for large-scale campus events.  │
+│  Built for the Cluts at LPU.     │
+│                                  │
+│  🛠  JavaScript · Node.js · APIs │
+│  🏫  DEPLOYED @ LPU CAMPUS       │
+│  🏅  XP ▸ █████████     +1500    │
 └──────────────────────────────────┘
 ```
-
-Smart Attendance System 📎 — replaces Google Forms & Excel sheets for large-scale events. Built for the Cluts at LPU.
 
 [![Repo](https://img.shields.io/badge/☸️_OPEN_REPO-0D1B4B?style=for-the-badge&logo=github&logoColor=FF9933)](https://github.com/DiwakerPandey21/EventEzy)
 
 </div>
 </td>
+</tr>
 
+<!-- ══ ROW 3 ══════════════════════════════════════════════ -->
+<tr>
 <td width="50%" valign="top">
 <div align="center">
 
 ### 🌿 GreenThumb Community
 `🟢 SOCIAL PLATFORM · TYPESCRIPT 🟢`
 
+![Badge](https://img.shields.io/badge/SOCIAL-TYPESCRIPT-138808?style=flat-square&logo=typescript&logoColor=white)
+![Badge](https://img.shields.io/badge/STATUS-ACTIVE-FF9933?style=flat-square)
+![Badge](https://img.shields.io/badge/RARITY-🟠🟠🟠☆☆_RARE-FF9933?style=flat-square)
+
 ```
 ┌──────────────────────────────────┐
-│  RARITY   🟠🟠🟠☆☆   RARE        │
-│  STATUS   ► 🟡 ACTIVE            │
-│  STACK    ► TypeScript · React   │
-│  XP DROP  ► █████     +1200 XP   │
+│  🎯 MISSION                      │
+│  Online haven for gardeners to   │
+│  share, learn & grow together 🌱 │
+│  Community-driven platform with  │
+│  responsive & beautiful design.  │
+│                                  │
+│  🛠  TypeScript · React · Node   │
+│  🌍  Community Platform          │
+│  🏅  XP ▸ ████████      +1200    │
 └──────────────────────────────────┘
 ```
-
-Online haven for gardeners to share, learn & grow together 🌱 — community-driven, fully responsive and beautifully designed.
 
 [![Repo](https://img.shields.io/badge/☸️_OPEN_REPO-0D1B4B?style=for-the-badge&logo=github&logoColor=FF9933)](https://github.com/DiwakerPandey21/GreenThumb)
 
 </div>
 </td>
-
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 <div align="center">
@@ -274,84 +345,70 @@ Online haven for gardeners to share, learn & grow together 🌱 — community-dr
 ### 📊 Dash\_ssdp — Data Platform
 `🔵 REAL-TIME DATA VISUALIZATION 🔵`
 
+![Badge](https://img.shields.io/badge/DATA_VIZ-REALTIME-0D1B4B?style=flat-square&logo=chartdotjs&logoColor=FF9933)
+![Badge](https://img.shields.io/badge/STATUS-LIVE-138808?style=flat-square)
+![Badge](https://img.shields.io/badge/RARITY-🟠🟠🟠☆☆_RARE-FF9933?style=flat-square)
+
 ```
 ┌──────────────────────────────────┐
-│  RARITY   🟠🟠🟠☆☆   RARE        │
-│  STATUS   ► 🟢 LIVE              │
-│  STACK    ► JS · Charts · APIs   │
-│  XP DROP  ► ████      +1000 XP   │
+│  🎯 MISSION                      │
+│  Real-time data collection &     │
+│  visualization platform —        │
+│  dashboards that speak louder    │
+│  than spreadsheets. Live data.   │
+│                                  │
+│  🛠  JavaScript · Charts · APIs  │
+│  📈  Live Data Dashboards        │
+│  🏅  XP ▸ ████████      +1000    │
 └──────────────────────────────────┘
 ```
-
-Real-time data collection & visualization platform — dashboards that speak louder than spreadsheets. Live insights, clean UI.
 
 [![Repo](https://img.shields.io/badge/☸️_OPEN_REPO-0D1B4B?style=for-the-badge&logo=github&logoColor=FF9933)](https://github.com/DiwakerPandey21/Dash_ssdp)
 
 </div>
 </td>
-
-<td width="50%" valign="top">
-<div align="center">
-
-### 🤖 SIH2025 — AI DROP OUT
-`🏆 HACKATHON SUBMISSION 🏆`
-
-```
-┌──────────────────────────────────┐
-│  RARITY   🟠🟠🟠🟠☆   EPIC       │
-│  STATUS   ► 🟢 SUBMITTED         │
-│  STACK    ► JS · Python · AI     │
-│  XP DROP  ► ██████    +1800 XP   │
-└──────────────────────────────────┘
-```
-
-AI-powered student dropout prediction system submitted at Smart India Hackathon 2025 with live counseling recommendations.
-
-[![Repo](https://img.shields.io/badge/☸️_OPEN_REPO-0D1B4B?style=for-the-badge&logo=github&logoColor=FF9933)](https://github.com/DiwakerPandey21/SIH2025)
-
-</div>
-</td>
-
 </tr>
+
 </table>
 </div>
 
 <br/>
 
-<!-- TIRANGA STRIPE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
+<!-- TIRANGA STRIPE -->
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
 
 <!-- ████████████████████████████████████████████████████████ -->
-<!--                   BATTLE STATISTICS                      -->
+<!--                  BATTLE STATISTICS                       -->
+<!-- ALL bg_color values use %23 prefix (URL-encoded #)       -->
 <!-- ████████████████████████████████████████████████████████ -->
 
 <br/>
 
-## 📡 `BATTLE_STATS.hud`
+## 📡 `> BATTLE_STATS.hud`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiwakerPandey21&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF9933&icon_color=138808&text_color=FFFFFF&bg_color=%230D1B4B&ring_color=FF9933&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakerPandey21&layout=compact&theme=tokyonight&hide_border=true&title_color=FF9933&text_color=FFFFFF&bg_color=%230D1B4B&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DiwakerPandey21&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF9933&icon_color=138808&text_color=ffffff&bg_color=%230D1B4B&ring_color=FF9933&count_private=true&include_all_commits=true" />&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakerPandey21&layout=compact&theme=tokyonight&hide_border=true&title_color=FF9933&text_color=ffffff&bg_color=%230D1B4B&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakerPandey21&theme=tokyonight&hide_border=true&ring=FF9933&fire=138808&currStreakLabel=FF9933&sideLabels=FFFFFF&dates=AAAAAA&background=%230D1B4B&stroke=FF9933" />
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=DiwakerPandey21&theme=tokyonight&hide_border=true&ring=FF9933&fire=138808&currStreakLabel=FF9933&sideLabels=ffffff&dates=aaaaaa&background=%230D1B4B&stroke=FF9933" />
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DiwakerPandey21&theme=tokyo-night&hide_border=true&bg_color=0D1B4B&color=FF9933&line=138808&point=FFFFFF&area=true&area_color=FF9933" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DiwakerPandey21&theme=tokyo-night&hide_border=true&bg_color=0D1B4B&color=FF9933&line=138808&point=ffffff&area=true&area_color=FF9933" />
 
 </div>
 
 <br/>
 
-<!-- TIRANGA STRIPE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
+<!-- TIRANGA STRIPE -->
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!--                    TROPHY CABINET                        -->
@@ -359,7 +416,7 @@ AI-powered student dropout prediction system submitted at Smart India Hackathon 
 
 <br/>
 
-## 🥇 `TROPHY_CABINET.exe`
+## 🥇 `> TROPHY_CABINET.exe`
 
 <div align="center">
 
@@ -367,18 +424,18 @@ AI-powered student dropout prediction system submitted at Smart India Hackathon 
 
 <br/>
 
-![Stars](https://img.shields.io/github/stars/DiwakerPandey21?style=for-the-badge&color=FF9933&logo=github&label=⭐+STARS+EARNED)&nbsp;
-![Repos](https://img.shields.io/badge/☸️_PUBLIC_REPOS-19-138808?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Contributions](https://img.shields.io/badge/🇮🇳_CONTRIBUTIONS-116+-0D1B4B?style=for-the-badge&logo=git&logoColor=FF9933)
+<img src="https://img.shields.io/github/stars/DiwakerPandey21?style=for-the-badge&color=FF9933&logo=github&label=STARS+EARNED" />&nbsp;
+<img src="https://img.shields.io/badge/PUBLIC_REPOS-20-138808?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-140+-0D1B4B?style=for-the-badge&logo=git&logoColor=FF9933" />
 
 </div>
 
 <br/>
 
-<!-- TIRANGA STRIPE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
+<!-- TIRANGA STRIPE -->
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!--                    CERTIFICATIONS                        -->
@@ -386,7 +443,7 @@ AI-powered student dropout prediction system submitted at Smart India Hackathon 
 
 <br/>
 
-## 🧠 `CERTS_UNLOCKED.db`
+## 🧠 `> CERTS_UNLOCKED.db`
 
 <div align="center">
 
@@ -397,16 +454,18 @@ AI-powered student dropout prediction system submitted at Smart India Hackathon 
 | 🟠 | **Introduction to Hardware and OS** | IBM | ![](https://img.shields.io/badge/VERIFIED-138808?style=flat-square&logoColor=white) |
 | 🟠 | **Networking Specialization** | University of Colorado | ![](https://img.shields.io/badge/VERIFIED-138808?style=flat-square&logoColor=white) |
 
+<br/>
+
 [![All Certs](https://img.shields.io/badge/🇮🇳_VIEW_ALL_CERTIFICATIONS-0D1B4B?style=for-the-badge&logo=linkedin&logoColor=FF9933)](https://linkedin.com/in/diwaker-pandey-32242a211)
 
 </div>
 
 <br/>
 
-<!-- TIRANGA STRIPE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
+<!-- TIRANGA STRIPE -->
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!--                     COMMIT SNAKE                         -->
@@ -414,24 +473,24 @@ AI-powered student dropout prediction system submitted at Smart India Hackathon 
 
 <br/>
 
-## 🐍 `COMMIT_SNAKE.run`
+## 🐍 `> COMMIT_SNAKE.run`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiwakerPandey21/DiwakerPandey21/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiwakerPandey21/DiwakerPandey21/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiwakerPandey21/DiwakerPandey21/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/DiwakerPandey21/DiwakerPandey21/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- TIRANGA STRIPE DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
+<!-- TIRANGA STRIPE -->
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=5" />
+<img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=5" />
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!--                       CONNECT                            -->
@@ -439,40 +498,40 @@ AI-powered student dropout prediction system submitted at Smart India Hackathon 
 
 <br/>
 
-## 🌐 `CONNECT.portal`
+## 🌐 `> CONNECT.portal`
 
 <div align="center">
 
 <a href="https://linkedin.com/in/diwaker-pandey-32242a211">
-  <img src="https://img.shields.io/badge/🇮🇳_LINKEDIN-0D1B4B?style=for-the-badge&logo=linkedin&logoColor=FF9933" height="40"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1B4B?style=for-the-badge&logo=linkedin&logoColor=FF9933" height="38"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:diwakerp050@gmail.com">
-  <img src="https://img.shields.io/badge/🇮🇳_GMAIL-FF9933?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="40"/>
+  <img src="https://img.shields.io/badge/GMAIL-FF9933?style=for-the-badge&logo=gmail&logoColor=white" height="38"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/DiwakerPandey21">
-  <img src="https://img.shields.io/badge/🇮🇳_GITHUB-138808?style=for-the-badge&logo=github&logoColor=FFFFFF" height="40"/>
+  <img src="https://img.shields.io/badge/GITHUB-138808?style=for-the-badge&logo=github&logoColor=white" height="38"/>
 </a>
 
 <br/><br/>
 
 ```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠  ║
-  ║  ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  ║
-  ║                                                                  ║
-  ║   ❝  I love turning ideas into impact —                        ║
-  ║       from hackathons to real-world products.  ❞               ║
-  ║                         — Diwaker Pandey  🇮🇳 🚀               ║
-  ║                                                                  ║
-  ║  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢  ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠  ║
+  ║  ⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪  ║
+  ║                                                              ║
+  ║   ❝  I love turning ideas into impact —                    ║
+  ║       from hackathons to real-world products.  ❞           ║
+  ║                       — Diwaker Pandey  🇮🇳 🚀             ║
+  ║                                                              ║
+  ║  🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢  ║
+  ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<!-- TIRANGA FOOTER — SAFFRON TOP, WHITE MID, GREEN BOTTOM -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=18&section=footer" />
+<!-- TIRANGA FOOTER -->
+<img width="100%" height="18" src="https://capsule-render.vercel.app/api?type=rect&color=FF9933&height=18" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A1F,40:0D1B4B,100:0A0A1F&height=120&section=footer&animation=twinkling&desc=☸️+Jai+Hind+·+Keep+Building+·+Keep+Growing+🇮🇳&descSize=15&descColor=FFFFFF&descAlignY=55" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=18&section=footer" />
+<img width="100%" height="18" src="https://capsule-render.vercel.app/api?type=rect&color=138808&height=18" />
 
 </div>
